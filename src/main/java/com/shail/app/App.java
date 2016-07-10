@@ -1,9 +1,6 @@
 package com.shail.app;
+import com.google.api.services.gmail.Gmail;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
